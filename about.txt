@@ -1,0 +1,4 @@
+About Potta-Regular (ポッタ)
+
+Potta-Regular (ポッタ) is a Japanese font.
+Hiragana (83), Katakana (86),  Kanji JIS Level 1 (2,965), Kanji JIS Level 2 (3,390), Google Latin Core (215 or more), Google Latin Plus (370), Symbols (147 or more)
